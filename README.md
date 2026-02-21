@@ -38,8 +38,8 @@ localized nature of ictal activity.
 
 Leave-One-Out Cross-Validation (LOOCV): I evaluated the system's performance using Linear Discriminant Analysis.
 
-Validation Outcome: Classification accuracy using the "worst" sensor fell to approximately [Insert your percentage]% (near random), confirming that the ranking 
-system effectively filters out noise and non-informative channels.
+Validation Outcome: Classification accuracy using the "worst" sensor fell to approximately 100% , confirming that the worst sensor (29) was classified as the worst
+because of the bad performance of the Complexity
 
 Visual Diagnostics: Analyzing the z-scores (relative increase in activity) confirmed that ictal events show minimal deviation from the baseline in low-ranked 
 sensors, justifying their exclusion from a diagnostic pipeline.
