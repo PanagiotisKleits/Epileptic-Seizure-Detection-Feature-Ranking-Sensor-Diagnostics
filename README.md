@@ -50,7 +50,9 @@ Language: MATLAB
 
 Key Functions: rankfeatures, classify, classperf
 
-Dataset: 76-channel iEEG (Ictal/Pre-ictal exemplars)
+Dataset: 76-channel iEEG 
+
+
 <img width="1913" height="912" alt="Figure_3" src="https://github.com/user-attachments/assets/f30c6074-2764-4c0f-ba8e-e921fd6556ac" />
 
 <img width="1872" height="884" alt="Figure_2" src="https://github.com/user-attachments/assets/8e7d288b-c2ec-46ca-942f-4c91e2a75b20" />
